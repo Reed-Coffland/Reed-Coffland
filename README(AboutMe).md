@@ -1,5 +1,5 @@
-- Hi, I’m @Reed-Coffland
-- I’m interested in learning all that I can in the realm of IT, Cybersecurity, coding, and more!
+- Hi, my name is Reed Coffland!
+- I’m interested in learning all that I can in the realm of IT, Cybersecurity, coding, and more.
 - I have recently completed The Ohio State University's Cybersecurity Bootcamp with a 95% overall. I am currently working to complete the CompTIA Sceurity+ certification exam this month.
 - How to reach me: Email: reedcoffland@outlook.com | Phone: (614)592-4880
 - Pronouns: He/Him
